@@ -1,4 +1,4 @@
-Here are the **Main Rules** and examples for each:
+# FIREBASE SECURITY RULES - BEST PRACTICE...
 
 ### == MAIN RULES ==
 
